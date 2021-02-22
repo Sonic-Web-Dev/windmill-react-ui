@@ -98,15 +98,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/estevanmaito/windmill-react-ui.git"
+    "url": "https://github.com/Sonic-Web-Dev/windmill-react-ui.git"
   },
   "keywords": [],
   "author": "Estevan Maito <ejmaito@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/estevanmaito/windmill-react-ui/issues"
+    "url": "https://github.com/Sonic-Web-Dev/windmill-react-ui/issues"
   },
-  "homepage": "https://github.com/estevanmaito/windmill-react-ui#readme",
+  "homepage": "https://github.com/Sonic-Web-Dev/windmill-react-ui#readme",
   "release-it": {
     "github": {
       "release": true
