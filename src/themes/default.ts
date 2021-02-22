@@ -21,6 +21,10 @@ export default {
   pagination: {
     base: 'flex flex-col justify-between text-xs sm:flex-row text-gray-600 dark:text-gray-400',
   },
+  //Table
+  table: {
+    base: '',
+  },
   // TableFooter
   tableFooter: {
     base:
